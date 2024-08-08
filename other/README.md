@@ -5,5 +5,8 @@ This directory contains information relevant to the construction and management 
 ## Flowchart
 This process diagram represents in detail all the logical processes to be performed by the robot on the track.
 
-![Regular](https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Flowchart.png)
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Flowchart.png" alt="Texto alternativo" width="450"/>
+</div>
+
 
