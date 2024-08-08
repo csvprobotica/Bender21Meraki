@@ -5,12 +5,6 @@ This directory contains information on 3D robot construction modeling using the 
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Studio2.0.jpg" alt="Texto alternativo" width="500"/>
 </div>
 
-For this robot design, the following library was used as reference for the construction in the Studio 2.0 application, which contains the elements for the LEGO Spike and Inventor version. [`Custom Parts`](https://github.com/csvprobotica/RoSGhost/blob/main/models/CustomParts.rar) [`Our Design`](https://github.com/csvprobotica/RoSGhost/blob/main/models/3D_MODEL_ROSGHOST.io)
-
-<div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/CustomParts.png" alt="Texto alternativo" width="450"/>
-</div>
-
 
 ## 3D Model
 This is the design we created ourselves with the Studio 2.0 application.
