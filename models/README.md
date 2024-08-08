@@ -6,7 +6,7 @@ This directory contains information on 3D robot construction modeling using the 
 </div>
 
 
-## 3D Model
+## 3D Model Design
 This is the design we created ourselves with the Studio 2.0 application.
 
 <div style="text-align: center;">
