@@ -13,21 +13,21 @@ This is the design we created ourselves with the Studio 2.0 application.
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Modelado3D.png" alt="Texto alternativo" width="700"/>
 </div>
 
-## Render Design
-This section presents all the angles of the robot rendered in 3D.
+## 3D Rederized Design
+This section shows the 3D modeling of all sides of the robot.
 
 <table>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Front.jpg" alt="Front" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Back.jpg" alt="Back" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/FRONT.png" alt="Front" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/BACK.png" alt="Back" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Left.jpg" alt="Left" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Right.jpg" alt="Right" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/LEFT.png" alt="Left" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/RIGHT.png" alt="Right" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Top.jpg" alt="Top" width="100"/></td>
-    <td><img src="https://github.com/csvprobotica/RoSGhost/blob/main/models/v3/Bottom.jpg" alt="Bottom" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/TOP.png" alt="Top" width="100"/></td>
+    <td><img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Render/BOTTOM.png" alt="Bottom" width="100"/></td>
   </tr>
 </table>
 
