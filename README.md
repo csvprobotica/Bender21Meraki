@@ -83,3 +83,8 @@ In this section are placed the phases used in the programming based on the seque
 
 ## Camera Test
 Here is a small calibration test of the pyxy camera with object detection.
+
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Test_Pyxy_Camara.gif" alt="Texto alternativo" width="150"/>
+</div>
+
