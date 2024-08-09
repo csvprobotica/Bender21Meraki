@@ -5,6 +5,11 @@ This directory contains information on 3D robot construction modeling using the 
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Studio2.0.jpg" alt="Texto alternativo" width="500"/>
 </div>
 
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/3DModel.gif" alt="Texto alternativo" width="500"/>
+</div>
+
+
 
 ## 3D Model Design
 This is the design we created ourselves with the Studio 2.0 application.
