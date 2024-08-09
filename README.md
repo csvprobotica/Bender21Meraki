@@ -43,7 +43,7 @@ The robot features several strategically placed proximity sensors around its str
 **Color Sensor:**
 The robot is equipped with the color sensor which is used for blue and orange line tracking in conjunction with the gyroscope for cornering.
 
-**Camera Pyxy**
+**Pyxy Camera:**
 The robot is also equipped with a pyxy camera capable of detecting specifically red and green colors. When encountering a red or green object in its path, the robot's control system activates an evasion routine to avoid these objects, ensuring safe and uninterrupted navigation.
 
 **Gyroscope Sensor:**
@@ -80,3 +80,6 @@ In this section are placed the phases used in the programming based on the seque
 **Phase 6:** Completion of Operation Cycle
 - After completing up to three turns, the robot concludes its operation cycle and stops.
 - The control system powers down the motors, and the robot stops, completing the assigned task.
+
+## Camera Test
+Here is a small calibration test of the pyxy camera with object detection.
