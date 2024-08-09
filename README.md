@@ -14,6 +14,7 @@ Elements of our robot:
 * 2 Technic Distance Sensor 45504
 * 1 Technic Color Sensor 45506
 * 1 Gyroscope Sensor 45505
+* 1 Pixy 2.1 camera for color object detection
 * 3D modeling designs for assembly
 
 ## Content
