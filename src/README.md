@@ -1,6 +1,12 @@
 Control software
 ====
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
+This directory contains the main [`source code`](https://github.com/csvprobotica/HypeTech/blob/main/src/HypeTech_V2.ev3) realized in a block system using the Lego EV3-G Blocks program.
 
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+All the programming was modified by ourselves.
+
+## Code Block EV3-G
+Here is a screenshot of the source code used with version 2.
+
+![Regular](https://github.com/csvprobotica/HypeTech/blob/main/src/EV3-G%20Blocks.png)
+
