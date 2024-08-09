@@ -51,6 +51,8 @@ Together, these components allow the robot to navigate autonomously and efficien
 ## Programming Explained
 In this section are placed the phases used in the programming based on the sequence of actions and responses of the robot in the detection in its sensors and motor movements during autonomous navigation.
 
+### First Round && Second Round
+
 **Phase 1:** Start and Initial Movement
 - The robot begins its operation when the system starts. In this phase, the robot sets itself in motion and moves forward.
 - The rear motor drives the robot forward.
@@ -64,7 +66,7 @@ In this section are placed the phases used in the programming based on the seque
 - The front motor executes a turn to change the robot's direction, allowing it to continue moving without hitting the obstacle.
 
 **Phase 4:** Specific Color Detection
-- During navigation, the robot uses its color sensor to identify red or green objects in its path.
+- During navigation, the robot uses its camera to identify red or green objects in its path.
 - If a red or green object is detected, the control system activates an evasion routine to maneuver around the object.
 
 **Phase 5:** Gyroscope-Guided Navigation
