@@ -51,26 +51,26 @@ Together, these components allow the robot to navigate autonomously and efficien
 ## Programming Explained
 In this section are placed the phases used in the programming based on the sequence of actions and responses of the robot in the detection in its sensors and motor movements during autonomous navigation.
 
-### Phase 1: Start and Initial Movement
+**Phase 1:** Start and Initial Movement
 - The robot begins its operation when the system starts. In this phase, the robot sets itself in motion and moves forward.
 - The rear motor drives the robot forward.
 
-### Phase 2: Obstacle Detection
+**Phase 2:** Obstacle Detection
 - As the robot moves forward, its proximity sensors scan the environment to detect potential obstacles, such as walls or other objects.
 - The proximity sensors provide real-time data to the robot's control system.
 
-### Phase 3: Obstacle Avoidance
+**Phase 3:** Obstacle Avoidance
 - Upon detecting an obstacle in its path, the robot uses its front motor to turn in the appropriate direction and avoid a collision.
 - The front motor executes a turn to change the robot's direction, allowing it to continue moving without hitting the obstacle.
 
-### Phase 4: Specific Color Detection
+**Phase 4:** Specific Color Detection
 - During navigation, the robot uses its color sensor to identify red or green objects in its path.
 - If a red or green object is detected, the control system activates an evasion routine to maneuver around the object.
 
-### Phase 5: Gyroscope-Guided Navigation
+**Phase 5:** Gyroscope-Guided Navigation
 - The robot's gyroscope measures its orientation and turns, ensuring it follows a precise trajectory.
 - The robot performs up to three complete turns based on gyroscope data before stopping.
 
-### Phase 6: Completion of Operation Cycle
+**Phase 6:** Completion of Operation Cycle
 - After completing up to three turns, the robot concludes its operation cycle and stops.
 - The control system powers down the motors, and the robot stops, completing the assigned task.
