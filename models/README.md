@@ -2,7 +2,7 @@
 This directory contains information on 3D robot construction modeling using the [`Studio 2.0`](https://www.bricklink.com/v3/studio/download.page) application, which allows us to build, render and create instructions.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Studio2.0.jpg" alt="Texto alternativo" width="500"/>
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Studio2.0.jpg" alt="Texto alternativo" width="450"/>
 </div>
 
 ## 3D Model Design
@@ -16,7 +16,7 @@ This is the design we created ourselves with the Studio 2.0 application.
 This section shows the 3D modeling of all sides of the robot.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/3DModel.gif" alt="Texto alternativo" width="250"/>
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/3D_Model.gif" alt="Texto alternativo" width="250"/>
 </div>
 
 <table>
