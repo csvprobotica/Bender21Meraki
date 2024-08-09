@@ -41,7 +41,10 @@ The robot features several strategically placed proximity sensors around its str
 * Rear Motor: This motor drives the robot forward. It is designed to provide smooth and consistent movement, adjusting as needed based on the navigation requirements determined by the sensors.
 
 **Color Sensor:**
-The robot is also equipped with a color sensor capable of detecting specifically red and green colors. When encountering a red or green object in its path, the robot's control system activates an evasion routine to avoid these objects, ensuring safe and uninterrupted navigation.
+The robot is equipped with the color sensor which is used for blue and orange line tracking in conjunction with the gyroscope for cornering.
+
+**Camera Pyxy**
+The robot is also equipped with a pyxy camera capable of detecting specifically red and green colors. When encountering a red or green object in its path, the robot's control system activates an evasion routine to avoid these objects, ensuring safe and uninterrupted navigation.
 
 **Gyroscope Sensor:**
 To enhance its navigation capability and ensure it follows a precise trajectory, the robot includes a gyroscope sensor. This sensor measures the robot's orientation and turns. The control system uses gyroscope data to perform up to three complete turns before stopping. This feature is essential for tasks requiring cyclical navigation or following specific patterns.
