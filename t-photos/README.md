@@ -1,4 +1,6 @@
 Team's photos
 ====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+This directory contains two pictures of our team for this competition, one normal and the other funny.
+
+The _Bender21 Meraki_ team is integrated by Juan David Castillo, Daiana Castillo and Karl Serrano, who represent an independent team in this Future Engineers competition.
