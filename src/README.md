@@ -1,4 +1,4 @@
-Control software
+Programming Application
 ====
 
 This directory contains the main [`source code`](https://github.com/csvprobotica/Bender21Meraki/blob/main/src/RunWRO_B21MeK.ev3) realized in a block system using the Lego EV3-G Blocks program.
