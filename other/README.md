@@ -6,7 +6,7 @@ This directory contains information relevant to the construction and management 
 Performing Pyxy 2.1 camera connection test.
 
 <div style="text-align: center;">
-  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Test_Pyxy_Camara.gif" alt="Texto alternativo" width="400"/>
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Test_Pyxy_Camara.gif" alt="Texto alternativo" width="300"/>
 </div>
 
 ## Flowchart
