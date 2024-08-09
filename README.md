@@ -1,6 +1,10 @@
 ## Bender21 Meraki WRO 2024
 The independent team Bender21 Meraki is integrated by Juan David Castillo, Daiana Castilo and Karl Serrano in this Future Engineers competition.
 
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/t-photos/Team-1.jpg" alt="Texto alternativo" width="250"/>
+</div>
+
 Engineering materials
 ====
 
