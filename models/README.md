@@ -12,12 +12,12 @@ This is the design we created ourselves with the Studio 2.0 application.
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/Modelado3D.png" alt="Texto alternativo" width="700"/>
 </div>
 
+## 3D Rederized Design
+This section shows the 3D modeling of all sides of the robot.
+
 <div style="text-align: center;">
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/models/3DModel.gif" alt="Texto alternativo" width="250"/>
 </div>
-
-## 3D Rederized Design
-This section shows the 3D modeling of all sides of the robot.
 
 <table>
   <tr>
