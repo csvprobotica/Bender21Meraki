@@ -9,4 +9,9 @@ This process diagram represents in detail all the logical processes to be perfor
   <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Flowchart.png" alt="Texto alternativo" width="450"/>
 </div>
 
+## Camera Test
+Performing Pyxy 2.1 camera connection test.
 
+<div style="text-align: center;">
+  <img src="https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Flowchart.png" alt="Texto alternativo" width="450"/>
+</div>
