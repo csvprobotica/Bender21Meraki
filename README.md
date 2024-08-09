@@ -18,13 +18,13 @@ Elements of our robot:
 
 ## Content
 
-* [`models`](https://github.com/csvprobotica/HypeTech/tree/main/models) in this directory you will find the 3D modeled files for the assembly of the robot and its components.
-* [`other`](https://github.com/csvprobotica/HypeTech/blob/main/other/Flowchart.png) in this directory you will find additional files of the robot operation, process diagram and execution.
-* [`schemes`](https://github.com/csvprobotica/HypeTech/tree/main/schemes) contains a schematic diagram in JPG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
-* [`src`](https://github.com/csvprobotica/HypeTech/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
-* [`t-photos`](https://github.com/csvprobotica/HypeTech/tree/main/t-photos) contains 2 photos of the team (an official one and one funny photo with all team members).
-* [`v-photos`](https://github.com/csvprobotica/HypeTech/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
-* [`video`](https://github.com/csvprobotica/HypeTech/tree/main/video) contains the video.mp4 file with the robot driving demonstration.
+* [`models`](https://github.com/csvprobotica/Bender21Meraki/tree/main/models) in this directory you will find the 3D modeled files for the assembly of the robot and its components.
+* [`other`](https://github.com/csvprobotica/Bender21Meraki/blob/main/other/Flowchart.png) in this directory you will find additional files of the robot operation, process diagram and execution.
+* [`schemes`](https://github.com/csvprobotica/Bender21Meraki/tree/main/schemes) contains a schematic diagram in JPG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
+* [`src`](https://github.com/csvprobotica/Bender21Meraki/tree/main/src) contains code of control software for all components which were programmed to participate in the competition.
+* [`t-photos`](https://github.com/csvprobotica/Bender21Meraki/tree/main/t-photos) contains 2 photos of the team (an official one and one funny photo with all team members).
+* [`v-photos`](https://github.com/csvprobotica/Bender21Meraki/tree/main/v-photos) contains 6 photos of the vehicle (from every side, from top and bottom).
+* [`video`](https://github.com/csvprobotica/Bender21Meraki/tree/main/video) contains the video.mp4 file with the robot driving demonstration.
 
 ## Strategy and Mobility
 
